@@ -1,0 +1,42 @@
+
+.search{
+    color: white;
+    height: 50px;
+    background-color: black;
+    justify-content: center;
+    height: 60px;
+ 
+}
+.ddd{
+  
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.h1{
+    display: flex;
+    background-color: rgb(59, 58, 55);
+    gap: 20px;
+    justify-content: center;
+}
+.nolink{
+    text-decoration: none;
+    color: rgb(192, 100, 187);
+    text-align: center;
+}
+header{
+    background-color: rgb(133, 130, 130);
+    color: white;
+   text-align: center;
+   width: 100%;
+}
+table{
+    width: 100%;
+    text-decoration: none;
+}
+footer{
+    display: flex;
+    align-items: center;
+    bottom: 30px;
+}
